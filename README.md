@@ -91,5 +91,4 @@ print(res.delay * 15.87 / 60, "min", metrics.r2(sim.E_data, sim.E))
 
 ## Citation and license
 
-Please cite the article and the archived version of this software
-([Zenodo DOI]); see `CITATION.cff`. MIT license (`LICENSE`).
+Please cite the article and the archived version of this software (https://doi.org/10.5281/zenodo.24497207); see `CITATION.cff`. MIT license (`LICENSE`).

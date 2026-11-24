@@ -2,7 +2,11 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the associated article and this archive."
 title: "reserve_model: latent reserve model of the EEG alpha-band response to arterial pressure"
 version: 1.0.0
+doi: 10.5281/zenodo.24497207
+date-released: 2026-11-24
+license: MIT
+repository-code: "https://github.com/emilia-turc/latent-reserve-model"
 authors:
   - family-names: Turc
     given-names: Emilia
-
+    orcid: "https://orcid.org/0009-0004-5760-0493"
